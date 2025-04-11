@@ -1,0 +1,10 @@
+# 環境変数
+.env
+.streamlit/secrets.toml
+
+# venvを無視
+venv/
+
+__pycache__/
+*.pyc
+*.DS_Store
